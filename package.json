@@ -1,0 +1,11 @@
+{
+  "name": "advanced-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:BolajiOlajide/advance-node.git",
+  "author": "Bolaji Olajide",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  }
+}
